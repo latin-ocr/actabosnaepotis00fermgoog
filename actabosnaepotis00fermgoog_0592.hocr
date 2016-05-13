@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actabosnaepotis00fermgoog_0592.png"; bbox 0 0 923 1390; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 271 1039 290 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 271 1039 290 1055">
+     <span class='ocr_line' id='line_1_1' title="bbox 271 1039 290 1055; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 271 1039 290 1055; x_wconf 54' lang='lat' dir='ltr'><strong>‘P</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 259 1078 290 1137">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 259 1078 290 1137">
+     <span class='ocr_line' id='line_1_2' title="bbox 259 1078 290 1093; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 259 1078 290 1093; x_wconf 66' lang='lat'><strong>531.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 259 1099 281 1117; baseline 0.091 -2"><span class='ocrx_word' id='word_1_3' title='bbox 259 1099 281 1117; x_wconf 61' lang='lat' dir='ltr'><strong>le)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 259 1127 283 1137; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 259 1127 283 1137; x_wconf 67' lang='lat' dir='ltr'><strong>Ul!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 153 1143 290 1180">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 153 1143 290 1180">
+     <span class='ocr_line' id='line_1_5' title="bbox 153 1143 290 1164; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 153 1143 231 1164; x_wconf 69' lang='lat' dir='ltr'>Egriense</span> <span class='ocrx_word' id='word_1_6' title='bbox 242 1148 290 1159; x_wconf 77' lang='lat' dir='ltr'>monn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 153 1164 290 1180; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 153 1164 248 1180; x_wconf 60' lang='lat' dir='ltr'><strong>Enmeqnna</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 260 1165 290 1180; x_wconf 61' lang='lat' dir='ltr'><strong>nea</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 153 1186 290 1225">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 153 1186 290 1225">
+     <span class='ocr_line' id='line_1_7' title="bbox 153 1186 290 1203; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 153 1186 203 1203; x_wconf 60' lang='lat' dir='ltr'><strong>Elaea</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 214 1186 248 1203; x_wconf 70' lang='lat' dir='ltr'><strong>filia</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 259 1186 290 1203; x_wconf 78' lang='lat' dir='ltr'><strong>Tez</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 176 1209 212 1225; baseline -0.028 0"><span class='ocrx_word' id='word_1_12' title='bbox 176 1209 212 1225; x_wconf 74' lang='lat'>267.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
